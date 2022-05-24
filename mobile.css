@@ -1,0 +1,138 @@
+@media screen and (max-width:1200px){
+.container {
+    width:900px;
+    height: 2600px;
+}
+
+.container .header .chap p {
+    font-size: 50px;
+}
+
+.container .header .chap .container .header .ong {
+
+    width: 550px    ;
+}
+.row {
+    width: 800px;
+    margin: 0 auto ;
+}
+.container .header .ong {
+    width: 700px;
+    margin-top: -90px;
+}
+.p1 {
+    font-size: 30px;
+}
+.p2 {
+    font-size: 30px;
+}
+.prow .row p {
+    font-size: 17px;
+}
+.p2 p {
+    border-bottom: 3px dotted grey ;
+    color: #fff ;
+
+}
+.prow .row h6 {
+    border-bottom: 3px dotted grey ;
+    color: #fff ;
+}
+.wmo .wmo1  {
+   float:none;
+   margin-left: 250px;
+}
+.wmo .wmo2  {
+    float:none;
+    margin-left: 250px;
+ }.wmo .wmo3  {
+    float:none;
+    margin-left: 250px;
+ }
+ .block1-1 {
+     border-right: 0px;
+ }
+ .block1-2 {
+     margin-top: -10px   ;
+     
+
+ }
+ .block1-2 p {
+     margin-top: 35px;
+     line-height: -10px;
+ }
+ 
+ .prow1 .row h6 {
+border-bottom: 0px; 
+}
+}
+
+
+@media screen and (min-width:700){
+    .container {
+        width:600px;
+        height: 2600px;
+    }
+    
+    .container .header .chap p {
+        font-size: 40px;
+    }
+    
+    .container .header .chap .container .header .ong {
+    
+        width: 500px    ;
+    }
+    .row {
+        width: 600px;
+        margin: 0 auto ;
+    }
+    .container .header .ong {
+        width: 600px;
+        margin-top: -90px;
+    }
+    .p1 {
+        font-size: 25px;
+    }
+    .p2 {
+        font-size: 25px;
+    }
+    .prow .row p {
+        font-size: 17px;
+    }
+    .p2 p {
+        border-bottom: 3px dotted grey ;
+        color: #fff ;
+    
+    }
+    .prow .row h6 {
+        border-bottom: 3px dotted grey ;
+        color: #fff ;
+    }
+    .wmo .wmo1  {
+       float:none;
+       margin-left: 200px;
+    }
+    .wmo .wmo2  {
+        float:none;
+        margin-left: 200px;
+     }.wmo .wmo3  {
+        float:none;
+        margin-left: 200px;
+     }
+     .block1-1 {
+         border-right: 0px;
+     }
+     .block1-2 {
+         margin-top: -10px   ;
+         
+    
+     }
+     .block1-2 p {
+         margin-top: 35px;
+         line-height: -10px;
+     }
+     
+     .prow1 .row h6 {
+    border-bottom: 0px; 
+    }
+    }
